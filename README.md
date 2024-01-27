@@ -1,2 +1,2 @@
 # NLP-Project
-This project is just to show how to create repository
+This project is awesome
