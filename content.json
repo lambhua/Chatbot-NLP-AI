@@ -1,0 +1,104 @@
+{"intents":
+  [
+    {
+      "tag":"greeting",
+      "input":["hello","hi there","nice to meet you","hi", "nice to see you","hi","hey there","hey","hi there","hi, nice to meet you","hello there"],
+      "responses":[
+          "Hi. Welcome to the world of peace and tranquility",
+          "Hey yo, do you need help I will help you in regaining peace in life?",
+          "welcome to the spiritual world, how may I help you ?",
+           "Hello noble  person, what do'ya want ?",
+          "Hello my good friend, How can I help you ?",
+          "Ha , Glad you showed up. How are you ?"
+        ]
+    },
+    {
+      "tag":"goodbye",
+      "input":["Thank you","Thanks","Thanks for the info","bye","okay bye","goodbye","see you later","i will catch you later","i will catch up later","okay i will see you later","I will talk to you later","will text you later","bye bro, I'll talk to you later","Bye brother"],
+      "responses":[
+          "Okay, Bye",
+          "Have a nice day",
+          "Goodbye",
+          "see you later",
+          "nice conversation. bye",
+          "okay. Have a nice day",
+          "Take care",
+          "we'll meet soon",
+          "Yeah Sure, Will talk to you later",
+          "Okay , Take care"
+        ]
+    },
+    {
+      "tag":"howami",
+      "input":["how are you ?","I am fine , how are you ?","are you fine ?","how are things going on ?","everything going on okay ?","how's everything there ?","how's everything going on ?","is everything okay ?"],
+      "responses":[
+          "Yeah , am fine living peacefully and happily",
+          "Everything's going on well living peacefully and happily",
+          "Doing good.Thanks you are my best friend , I am living peacefully and happily",
+          "Things are Great , having a peaceful life",
+          "Yeah Fine, easy going on in my life living peacefully and happily",
+          "I am Great and living peacefully and happily ?",
+          "Everything's great.My life is very peaceful and spiritual",
+          "I am doing good. Life is precious so living peacefully and happily "
+        ]
+    },
+    {
+      "tag":"whoareyou",
+    "input":["who are you ?","what are you ?","what is your name ?","are you a chatbot ?","what can I call you ?","your name ?","are you a bot ?","how do I address you ?","How do I call you"],
+      "responses":[
+          "I am a spiritual  Bot developed by anoop , you can call me anoop's bot",
+          "I am a spiritual bot ready to help you to relieve your pains and sufferings",
+          "Anoop's spiritual bot at your service ready to answer your questions based on buddhism ",
+          "My name is anoops spiritual bot ready to help you to solve your problems",
+          "You can call me anoop's Bot and I am here to Help you to relieve your pain and sufferings",
+          "My name is anoop's bot and I am here to answer your questions based on Buddhist preachings to relieve your pain and sufferings"
+        ]
+    },
+    {
+      "tag":"whereareyou",
+    "input":["where are you from ?","which country are you from ?","where do you live ?","where are you ?","where do you live in ?","which place do you live in ?","where are you currently at","where do you live currently ?","you are from where","you are from ?"],
+      "responses":[
+          "I Live in the Lucknow India",
+          "I presently reside in Lucknow",
+          "I live in Lucknow India. Pretty sure you wouldn't have heard about that",
+          "Lucknow. That's where I live"
+        ]
+    },
+    {
+      "tag":"life",
+      "input":["what is suffering ?","what is pain ?","what is dukkha ?","what are sufferings in life ?","why do we suffer in life ?","why do we suffer ?","what are sufferings","what are types of sufferings in human life","what are types of suffering","why do we suffer"],
+      "responses":[
+
+        "Dukkha is often translated as suffering. In everyday life, dukkha is most easily perceived as suffering , and that is why that translation appeals more to the imagination. Dukkha has a much broader meaning however, which threatens to be lost with suffering.",
+        "Actually dukkha or suffering could best be translated as  the friction of the wheel on the wagon-axis . We experience a similar friction during our life  journey. Things do not go as desired, whether the wheel is stationary or rolling .",
+        "Pain or suffering or dukkha can be mental as well as physical. Physical pain, for example, means something as simple as bumping your toe or maybe on a deeper level the continuous discomfort of your body which makes you move all the time."
+          
+          ]
+    },
+    {
+      "tag":"samsara",
+      "input":["what is samsara ?","what is universe ?","what is world ?","why do we always wander in our lives ?","why do we wander in life ?"],
+      "responses":[
+
+        "Samsara can be translated as  the endless wandering . A few words from the Buddha himself  What do you think  Which is greater, the tears you have shed while transmigrating 
+          wandering this long  long time crying  weeping from being joined with what is displeasing , being separated from what is pleasing or the water in the four great oceans
+          This is the greater  the tears you have shed while transmigrating & wandering this long, long time crying  weeping from being joined with what is displeasing, being separated from 
+          what is pleasing not the water in the four great oceans " , "Samsara can be translated as the endless wandering  crying , weeping from being joined with what is displeasing,
+           being separated from what is pleasing or the water in the four great oceans   From an inconceivable beginning comes transmigration. A beginning point is not evident,
+          though beings hindered by ignorance and fettered by craving are transmigrating  wandering on. Long have you thus experienced stress, experienced pain, experienced loss,
+          swelling the cemeteries  enough to become disenchanted with all fabrications, enough to become dispassionate, enough to be released."
+          ]
+    },
+    {
+      "tag":"noble",
+      "input":["what are the four noble truths ?","what are the four noble truths as per buddha ?","what are the four noble truths as told in buddhism ?","four noble truths","tell me four noble truths","four truths","truths of life"," what is truth in life","lifes truth?"],
+      "responses":[ 
+     
+      " They are the truth of suffering, the truth of the cause of suffering, the truth of the end of suffering, and the truth of the path that leads to the end of suffering. More simply put, suffering exists
+          it has a cause  it has an end  and it has a cause to bring about its end." , "Four noble truths are The world is full of sorrow. Desire is the root cause of all sorrow. Sorrow can be conquered 
+         by conquering desire. and  Desire can be conquered by following the eight fold paths  that is Ashtangirka Marga"
+        
+        ]
+    }
+  ]
+}
